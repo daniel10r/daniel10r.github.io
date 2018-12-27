@@ -2,7 +2,7 @@
  <head> <title> <Strong> <font size= "+ 2"> </Strong></title></head></font>
 </head>
  <body text="white"; bgcolor="black";>
- <body style="background-image: url(https://i.imgur.com/QguApMA.jpg); background-size: 100%; background-repeat: no-repeat; background-position: top center; background-attachment: fixed;">
+ <body style="background-image: url(https://i.imgur.com/QguApMA.jpg); background-size: cover; background-repeat: no-repeat; background-position: top center; background-attachment: fixed;">
  </body>
  <h1 align="center">Врятуймо свiт</h1>
 <center><h3>Американські вчені порахували, що загальні обсяги пластику, коли-небудь виготовленого ‎людством, складають 8,3 мільярда тонн.</h3></center>
