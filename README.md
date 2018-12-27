@@ -1,8 +1,4 @@
- <! SOCTYPE HTML PUBLIC "- // W3C // DID HTML4.01 Transitional // EN" "W3.ord/TR/html4/loose.dtd">
- <html>
- <head>
- <title>Врятуймо свiт</title>
- </head>
+</head>
  <head> <title> <Strong> <font size= "+ 2"> </Strong></title></head></font>
 </head>
  <body text="white"; bgcolor="black";>
